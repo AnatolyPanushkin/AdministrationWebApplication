@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "mNMWx5NmXejnJJEeSKdQmxoaX1bVQpiJ4LJpAR4wilM=",
+  "Source": "AdministrationWebApplication",
+  "BasePath": "_content/AdministrationWebApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
